@@ -12,6 +12,9 @@ int APIENTRY wWinMain(_In_ HINSTANCE /*hInstance*/,
     TestApplication app;
     app.Run();
     return 0;
+
+    //测定
+
 }
 
 #endif
